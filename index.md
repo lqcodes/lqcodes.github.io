@@ -1,4 +1,9 @@
-# Lucas Queiroz 
+---
+layout: home
+title: Lucas Queiroz
+subtitle: Articles and References
+use-site-title: true
+---
 
 ## Who am I?
 
