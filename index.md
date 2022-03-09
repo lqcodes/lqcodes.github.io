@@ -4,7 +4,6 @@ title: Lucas Queiroz
 subtitle: Articles and References
 ---
 
-
 ## Who am I?
 
 Software Engineer, graduated in Computer Engineering, developer with main stack C#/.NET, knowledge also in AWS platform, Azure DevOps and also technologies.
