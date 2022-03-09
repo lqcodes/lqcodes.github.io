@@ -1,2 +1,0 @@
-# lqcodes.github.io
-Docs
