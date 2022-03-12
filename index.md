@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Lucas Queiroz
 subtitle: Articles and References
 ---
