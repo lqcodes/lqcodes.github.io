@@ -2,5 +2,11 @@
 
 source "https://rubygems.org"
 
-gemspec
+gem 'execjs'
+gem 'github-pages'
+gem 'jekyll-paginate'
 
+# bundle exec jekyll serve
+gem 'tzinfo-data'
+gem 'webrick'
+gem 'tzinfo'

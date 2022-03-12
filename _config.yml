@@ -9,7 +9,7 @@
 title: Lucas Queiroz
 
 # Your name to show in the footer
-author: Some Person
+author: Lucas Queiroz
 
 # --- List of links in the navigation bar --- #
 
@@ -95,13 +95,15 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
+
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Bahia"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+paginate_path: "blog/page:num"
 paginate: 5
 
 kramdown:
@@ -132,7 +134,6 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
